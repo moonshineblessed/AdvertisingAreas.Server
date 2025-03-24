@@ -1,0 +1,22 @@
+Yandex.Direct:/ru
+Google Ads:/com
+VKontakte:/ru,/ua,/by,/kz
+Facebook Ads:/com,/us,/gb,/ca
+Instagram Ads:/com,/us,/ru,/de
+Odnoklassniki:/ru,/ua,/by
+MyTarget:/ru,/ua,/kz
+Mail.ru Ads:/ru
+YAN Ad Network:/ru
+Google Ads:/com
+VK Ad Network:/ru,/ua,/by,/kz
+Facebook Ad Network:/com,/us,/gb,/ca
+Advertising network Instagram:/com,/us,/ru,/de
+St. Petersburg City Portal:/ru/spb/newReg1
+Advertising network OK:/ru,/ua,/by
+MyTarget advertising network:/ru,/ua,/kz
+Advertising network Mail.ru:/ru
+City portal of Moscow:/ru/msk
+City portal of St. Petersburg:/ru/spb
+City portal of Saint-Petersburg:/ru/spb/newReg
+Yekaterinburg city portal:/en/svrd/ekb
+Novosibirsk city portal:/ru/nsk
